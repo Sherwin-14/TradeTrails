@@ -1,4 +1,4 @@
-# Power BI Project: Global Superstore Analysis
+# Global Superstore Analysis
 
 ## Introduction
 
